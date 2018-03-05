@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Better RSpec",
+		"Case Conversion",
+		"ChangeQuotes",
+		"Cucumber",
+		"File Rename",
+		"Fix Mac Path",
+		"GitSavvy",
+		"Handlebars",
+		"HTML Mustache",
+		"Package Control",
+		"Pretty JSON",
+		"RSpec",
+		"RuboCop",
+		"RubyTest",
+		"Rust Enhanced",
+		"RustCodeFormatter",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"Sublimerge Pro"
+	]
+}

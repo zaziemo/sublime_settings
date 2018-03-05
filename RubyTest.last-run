@@ -1,0 +1,4 @@
+{
+	"last_test_run": "ruby -Itest issue_timer/test/unit/time_entry_ping_evaluator_test.rb -n 'test_two_consecutive_pings_from_same_user_for_the_same_issue_create_only_one_time_entry'",
+	"last_test_working_dir": "/Users/maren/Gruendung/Kunden/42_robots/Redmine/Kopie_redmine-3.3.2/plugins"
+}
